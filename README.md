@@ -44,7 +44,7 @@ Before you begin, ensure you have the following:
    - Go to **Wipe** > **Advanced Wipe**, and select the following partitions:  
      `System`, `Data`, `Cache`.
    - Swipe to wipe.
-2. Download the **PostmarketOS image** (e.g., `.img` or `.tar` file) and transfer it to your device.  
+2. Transfer the **PostmarketOS** zip file (e.g., `.zip` file) and transfer it to your device.  
    You can either transfer the file via USB or use the built-in file manager in TWRP to move the file.
 3. In TWRP, go to **Install** and locate the PostmarketOS installation zip.
 4. Select the zip file and swipe to confirm the installation.
