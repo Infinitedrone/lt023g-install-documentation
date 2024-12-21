@@ -62,4 +62,3 @@ Before you begin, ensure you have the following:
 - [PostmarketOS Official Website](https://postmarketos.org)
 - [PostmarketOS Device Wiki](https://wiki.postmarketos.org)
 - [TWRP Official Website](https://twrp.me)
-- [PostmarketOS GitHub Repository](https://github.com/postmarketos)
